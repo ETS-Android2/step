@@ -1,2 +1,2 @@
 # step
-Android application that records the kilometers you travel via the device gps.
+Android application that records the kilometers you are going through via the devices gps.
